@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-bio-7be85": {
+      "hosting": {
+        "angularFirebase": [
+          "fir-bio-7be85"
+        ]
+      }
+    }
+  }
+}
